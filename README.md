@@ -2,9 +2,9 @@
 
 # Screenshot
 <img width="1837" height="643" alt="supermarket_sale2 0" src="https://github.com/user-attachments/assets/8d5b7d1a-dc90-4c72-b826-ee6d31e89731" />
-🏪 Superstore Data Project
+#🏪 Superstore Data Project
 
-📌 Project Overview
+#📌 Project Overview
 
 This project analyzes Superstore beverage sales data to uncover insights about sales, profitability, delivery times, and regional performance. The dataset includes details like retailers, beverage brands, delivery companies, units sold, and operating margins.
 
@@ -18,7 +18,7 @@ Understand regional and brand-level performance 🌎
 
 Improve supply chain and delivery analysis 🚚
 
-📂 Dataset Details
+#📂 Dataset Details
 
 File Name: superstore data dashboard.xlsx
 Sheet Used: Data
@@ -44,14 +44,14 @@ Column	Description
 
 🔹 Delivery Performance
 
-🚀 Key Insights
+#🚀 Key Insights
 
 ✔️ Coca-Cola & Diet Coke dominate sales volume
 ✔️ UPS shows longer delivery times than USPS & FedEx
 ✔️ Northeast region contributes the highest revenue
 ✔️ Average operating margin ~ 33% across retailers
 
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 
 Excel / Power BI / Tableau for dashboarding
 
@@ -59,7 +59,7 @@ Python (Pandas, Matplotlib, Seaborn) for data analysis
 
 Markdown & GitHub for documentation
 
-📌 How to Use
+#📌 How to Use
 
 Clone the repository:
 
@@ -70,7 +70,7 @@ Open the dashboard in Power BI / Tableau or explore via Jupyter Notebook.
 
 Check the images/ folder for exported visualizations.
 
-✨ Future Improvements
+#✨ Future Improvements
 
 Automate ETL pipeline for updated data
 
