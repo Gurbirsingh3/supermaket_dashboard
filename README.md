@@ -98,17 +98,18 @@ This dashboard provides **real-time insights** into sales, profit, product categ
 
 ## 🔮 Future Enhancements
 
-*     🤖 Add automated forecasting using Excel’s built-in trendline tools.
+   *  🤖 Add automated forecasting using Excel’s built-in trendline tools.
 
-*     📆 Add Year-over-Year growth comparisons.
+   *  📆 Add Year-over-Year growth comparisons.
 
-*     🧾 Add export-to-PDF feature for management reports.
+   *  🧾 Add export-to-PDF feature for management reports.
 
-*     🌐 Integrate with Power Query for auto data refresh.
+   *  🌐 Integrate with Power Query for auto data refresh.
 
 ## 🧑‍💻 Author
 
 👤 Gurbir Singh
+
 💼 Data Analyst | Excel Dashboard Developer | Business Intelligence Enthusiast
 
 🌐 GitHub - https://github.com/Gurbirsingh3
